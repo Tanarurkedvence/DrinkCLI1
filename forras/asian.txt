@@ -1,0 +1,4 @@
+64,Florida,High
+18,Nevada,Elementary
+55,New York,Elementary
+60,West Virginia,Elementary
